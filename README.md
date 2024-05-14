@@ -10,5 +10,5 @@ The final version is still under construction (recovery) ... (Currently may not 
 
 # Tips for the course
 
-1. [DOSBox-X](https://dosbox-x.com/), ~~can be used to enjoying DOS games (with higher performance and better quality)~~.
+1. [DOSBox-X](https://dosbox-x.com/), ~~can be used for enjoying DOS games (with higher performance and better quality)~~.
 2. [MASM 6.11](https://winworldpc.com/product/macro-assembler/6x), provides convenient and useful features.
